@@ -20,6 +20,11 @@ const Developer = (props) => {
                 <p>State:{state}</p>
                 <h3>Stipend:{stipend}</h3>
                 <button onClick={props.handleClick} className="btn-handler">{element}  ADD</button>
+                <div style={{display:'flex',justifyContent:'space-evenly'}}>
+                   <p style={{fontSize:'20px'}}><i class="fab fa-facebook"></i></p> 
+                   <p style={{fontSize:'20px'}}><i class="fab fa-twitter-square"></i></p>
+                  
+                </div>
             </div>
             
         </div>
