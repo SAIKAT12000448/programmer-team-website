@@ -1,6 +1,6 @@
 # Hashcode team to explore and develope
 
-Visit our site and make a team [programmer-team](https://hashcode-hamilton-6b1eb8.netlify.app/).
+Visit our site and make a team [_programmer-team_](https://hashcode-hamilton-6b1eb8.netlify.app/).
 
 ## What you can do
 
