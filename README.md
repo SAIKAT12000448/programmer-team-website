@@ -4,7 +4,11 @@ Visit our site and make a team [_programmer-team_](https://hashcode-hamilton-6b1
 
 ## What you can do
 
-In the project directory, you can run:
+here is the list:
+
+- You can select some great team member to perform hashcode
+- You can also identify which kind of programmer you need
+- can add this team in your bookmark.then you can create project
 
 ### `npm start`
 
