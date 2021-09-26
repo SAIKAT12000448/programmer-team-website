@@ -1,0 +1,21 @@
+.developer {
+  background-color: rgb(250, 250, 250);
+  box-shadow: 2px 2px 3px 5px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+.img-link img {
+  width: 200px;
+  border-radius: 50%;
+}
+.btn-handler {
+  width: 75%;
+  padding: 5px;
+  border-radius: 10px;
+  font-weight: 800;
+  background-color: #cfcfcf;
+}
+.btn-handler:hover {
+  background-color: rgba(113, 131, 167, 0.562);
+}

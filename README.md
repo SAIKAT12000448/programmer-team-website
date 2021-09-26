@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Hashcode team to explore and develope
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visit our site and make a team [programmer-team](https://hashcode-hamilton-6b1eb8.netlify.app/).
 
-## Available Scripts
+## What you can do
 
 In the project directory, you can run:
 
